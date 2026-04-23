@@ -1,0 +1,11 @@
+# Archivos temporales
+*.tmp
+*.log
+
+# Arduino IDE
+*.ino.bin
+*.elf
+
+# OS
+.DS_Store
+Thumbs.db
